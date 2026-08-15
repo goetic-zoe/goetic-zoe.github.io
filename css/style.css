@@ -2,6 +2,19 @@ body{
   background-color: #181822;
   color: #FFFFFF;
 }
-navbar{
-  background-color: #
+a{
+  color: white;
+  display: block;
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:active{
+  text-decoration: underline;
 }
